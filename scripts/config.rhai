@@ -1,6 +1,6 @@
 let titles_type = ["Benchmark"];
-let titles_model = ["BERT", "GPT", "Transformer"];
-let titles_method = ["Multimodal", "Pretrain", "Prompt", "Reasoning"];
+let titles_model = ["Transformer", "GPT"];
+let titles_method = ["Multimodal", "MCoT", "CoT", "Reasoning","modality"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
 
